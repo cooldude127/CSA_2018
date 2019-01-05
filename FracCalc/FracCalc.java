@@ -3,6 +3,7 @@
 //This is the final version of FracCalc, Checkpoints #1,2,3 are all commented and below
 //Any use of this code should be used for reference only.
 //I am not responsible for any illicit use of this code.
+
 package fracCalc;
 
 import java.util.Scanner;
