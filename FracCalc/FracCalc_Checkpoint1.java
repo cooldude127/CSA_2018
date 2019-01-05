@@ -8,7 +8,7 @@ package fracCalc;
 
 import java.util.Scanner;
 
-public class FracCalc {
+public class FracCalc{
 
 //Test: 1_2/3 + 4_5/6
     public static void main(String[] args) {
