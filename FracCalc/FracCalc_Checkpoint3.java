@@ -1,4 +1,9 @@
 //Rahul Amin November 19, 2018 Period:1
+//FracCalc Project
+//FracCalc Checkpoint #3
+//Any use of this code should be used for reference only.
+//I am not responsible for any illicit use of this code.
+
 package fracCalc;
 
 import java.util.Scanner;
